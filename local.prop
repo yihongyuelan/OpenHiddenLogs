@@ -1,0 +1,7 @@
+log.tag.InCall=V
+log.tag.Telephony=V
+log.tag.Telecom=V
+log.tag.TelecomFramework=V
+log.tag.Mms=V
+log.tag.MessageTemplateProvider=V
+log.tag.CarrierText=V
